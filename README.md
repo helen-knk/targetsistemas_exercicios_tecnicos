@@ -7,3 +7,8 @@
 
     [Solução](https://github.com/helen-knk/targetsistemas_exercicios_tecnicos/blob/master/01_sequencia_de_fibonacci/main.py)
 
+2. Escreva um programa que verifique, em uma string, a existência da letra ‘a’, seja maiúscula ou minúscula, além de informar a quantidade de vezes em que ela ocorre.
+
+    > _IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;_
+
+    [Solução](https://github.com/helen-knk/targetsistemas_exercicios_tecnicos/blob/master/02_verifica_a_existencia_da_letra_na_palavra_digitada/main.py)

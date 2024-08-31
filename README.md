@@ -12,3 +12,11 @@
     > _IMPORTANTE: Essa string pode ser informada através de qualquer entrada de sua preferência ou pode ser previamente definida no código;_
 
     [Solução](https://github.com/helen-knk/targetsistemas_exercicios_tecnicos/blob/master/02_verifica_a_existencia_da_letra_na_palavra_digitada/main.py)
+
+3. Observe o trecho de código abaixo: 
+```
+int INDICE = 12, SOMA = 0, K = 1; enquanto K < INDICE faça { K = K + 1; SOMA = SOMA + K; } imprimir(SOMA);
+```
+
+Ao final do processamento, qual será o valor da variável SOMA? <br>
+_R:_ O resultado final será 77. O código executado em python [encontra-se aqui.](https://github.com/helen-knk/targetsistemas_exercicios_tecnicos/blob/master/03_soma_valores_na_variavel/main.py)

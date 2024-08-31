@@ -33,10 +33,10 @@ _R:_ O resultado final será 77. O código executado em python [encontra-se aqui
     a. 1, 3, 5, 7, ___ <br>
     _R:_ Lógica de obter somente os números impares, sendo o último número da listagem igual a 9. 
 
-    b. 2, 4, 8, 16, 32, 64, ____
+    b. 2, 4, 8, 16, 32, 64, ____ <br>
     _R:_ Lógica de multiplicar o número por 2, obtendo o próximo número da listagem. O último número da listagem é 128.
 
-    c. 0, 1, 4, 9, 16, 25, 36, ____
+    c. 0, 1, 4, 9, 16, 25, 36, ____ <br>
     _R:_ Soma o número da sequência pelo próximo número ímpar, sendo o último número da listagem igual a 49.
 
     d. 4, 16, 36, 64, ____
@@ -45,7 +45,7 @@ _R:_ O resultado final será 77. O código executado em python [encontra-se aqui
     e. 1, 1, 2, 3, 5, 8, ____ <br>
     _R:_ Lógica de Fibonacci, pois somando o elemento anterior, 1, com 1, é possível obter o próximo número sendo 2. E assim sucessivamente, o último número da listagem é 13.
  
-    f. 2, 10, 12, 16, 17, 18, 19, ____
+    f. 2, 10, 12, 16, 17, 18, 19, ____ <br>
     _R:_ Todos os números da sequência começam com a letra D, o prócimo número é 200 (Duzentos).
 
 ---

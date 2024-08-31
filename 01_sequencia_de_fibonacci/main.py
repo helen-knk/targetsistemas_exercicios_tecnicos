@@ -4,7 +4,8 @@ def numero_pertence_a_sequencia_de_fibonacci(numero):
     primeiro_numero = 0
     segundo_numero = 1
     numero_da_sequencia = 0
-    sequencia_fibonacci = []
+    sequencia_fibonacci = [primeiro_numero, segundo_numero]
+    
     def calcula_sequencia_de_fibonacci(numero_da_sequencia, primeiro_numero, segundo_numero):
         while numero_da_sequencia < numero:
             numero_da_sequencia = primeiro_numero + segundo_numero
